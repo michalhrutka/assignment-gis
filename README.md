@@ -20,8 +20,16 @@ Build a map-based application, which lets the user see geo-based data on a map a
 
 Fill in (either in English, or in Slovak):
 
-**Application description**: `<fill in>`
+**Application description**: The app will let users search for places to visit in London.
+The dataset contains information about places in several categories; `Acoommodation`, `Restaurants`, `Points Of Interest` and `Atrractions`.
 
-**Data source**: `<fill in>`
+**The use cases are:**: 
+1. Show all selected places in London
+2. Show all selected places in a scalable radius from one point
+3. Show all selected places in an area created from multiple points
 
-**Technologies used**: `<fill in>`
+**Data source**: 
+- http://tour-pedia.org/about/datasets.html
+
+**Technologies used**: 
+- Python
